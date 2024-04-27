@@ -1,0 +1,42 @@
+*{
+  margin:0;
+  padding:0;
+  box-sizing:border-size;
+}
+
+.image{
+	margin-top:15px;
+	text-align:center;
+}
+
+.container{
+	width:21%;
+	margin:auto;
+	border:1px solid black;
+	margin-top:40px;
+	height:500px;
+	
+}
+
+.date{
+	text-decoration:none;
+	padding-left:20px;
+	font-family:arial;
+	color:#0000ff;
+}
+
+h3{
+	padding-left:20px;
+	font-family:arial;
+	font-size:20px
+}
+
+span{
+	font-family:arial;
+}
+
+.para{
+	padding-left:20px;
+	font-family:arial;
+	line-height:25px;
+}
